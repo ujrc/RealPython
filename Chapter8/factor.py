@@ -1,3 +1,4 @@
+# Find factors of a number
 user_input=int(raw_input("Enter a positive integer: "))
 for i in range(1,user_input+1):
 	if user_input%i==0:
