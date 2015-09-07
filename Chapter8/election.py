@@ -1,3 +1,5 @@
+#Probability of winning election
+
 from __future__ import division
 from random import random
 
