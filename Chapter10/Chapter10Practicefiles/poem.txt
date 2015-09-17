@@ -1,0 +1,1 @@
+Hi there.This is a simple text file.If you can read me, congratulations! Read in the arw text file poem.txt fron the chapter 10 practicefiles and display each line by looping over them individually,the close the line; we'll discuss using file pathsin the next sectionbut  now you can save your script in the same folder as the text file.
